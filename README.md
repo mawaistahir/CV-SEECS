@@ -16,7 +16,7 @@ Both of the above trained networks were overfitted. I then opted for early stopp
 
 Fourth time I experimented with data augmentation. It gave me significantly better results.
 
-[4. Training of VGG16 with Early Stopping and Adaptive Learning Rate](https://github.com/mawaistahir/CV-SEECS/blob/main/VGG16%20Training%20with%20Data%20Augmentation.ipynb).
+[4. Training of VGG16 using Data Augmentation](https://github.com/mawaistahir/CV-SEECS/blob/main/VGG16%20Training%20with%20Data%20Augmentation.ipynb).
 
 I then decided for transfer learning. I initialized the fifth network with the weights of pre-trained fourth network (trained with data augmentation). Only last 4 layers of fifth network were kept trainable and rest were frozen. 
 
