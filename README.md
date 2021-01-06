@@ -20,9 +20,9 @@ Fourth time I experimented with data augmentation. It gave me significantly bett
 
 I then decided for transfer learning. I initialized the fifth network with the weights of pre-trained fourth network (trained with data augmentation). Only last 4 layers of fifth network were kept trainable and rest were frozen. 
 
-[5. Training of VGG16 with using Transfer Learning](https://github.com/mawaistahir/CV-SEECS/blob/main/VGG16%20Training%20with%20Transfer%20Learning.ipynb).
+[5. Training of VGG16 using Transfer Learning](https://github.com/mawaistahir/CV-SEECS/blob/main/VGG16%20Training%20with%20Transfer%20Learning.ipynb).
 
 I once again experimented with transfer learning. This time I kept all the layers trainable.
 
-[6. Training of VGG16 with using Transfer Learning 2](https://github.com/mawaistahir/CV-SEECS/blob/main/VGG16%20Training%20with%20Transfer%20Learning%202.ipynb).
+[6. Training of VGG16 using Transfer Learning 2](https://github.com/mawaistahir/CV-SEECS/blob/main/VGG16%20Training%20with%20Transfer%20Learning%202.ipynb).
 
