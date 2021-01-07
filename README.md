@@ -26,3 +26,9 @@ I once again experimented with transfer learning. This time I kept all the layer
 
 [6. Training of VGG16 using Transfer Learning 2](https://github.com/mawaistahir/CV-SEECS/blob/main/VGG16%20Training%20with%20Transfer%20Learning%202.ipynb).
 
+
+
+Here is the link to download the pre-trained networks weights of training # 4
+https://drive.google.com/file/d/1A0Whi0FVDdjVvj0DhqHhQiteFQfc3tsp/view?usp=sharing
+
+
